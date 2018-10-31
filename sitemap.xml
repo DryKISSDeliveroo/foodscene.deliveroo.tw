@@ -13,12 +13,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/餐廳/tp-east-district-goodeats-zh.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/tp-city-hall-goodeats-zh.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,18 +26,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/促銷/shopee-partnership.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/促銷/citibank-partnership.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/促銷/introducing-deliveroo-foodscene.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -103,19 +85,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/citibank.html</loc>
+    <loc>https://foodscene.deliveroo.tw/tag/shopee.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/promotion.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/shopee.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -134,30 +110,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/noodles.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/japanese.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/seafood.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/taiwanese.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/thai.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -187,19 +139,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/foodscene.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/archive/2018.html</loc>
-    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/archive/2017.html</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
