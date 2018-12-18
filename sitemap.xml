@@ -31,6 +31,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/餐廳/tp-xinyi-goodeats-zh.html</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/tp-daan-goodeats-zh.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,13 +151,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/coca-cola.html</loc>
+    <loc>https://foodscene.deliveroo.tw/tag/xmas.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/xmas.html</loc>
+    <loc>https://foodscene.deliveroo.tw/tag/cokecola.html</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/coca-cola.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -361,25 +373,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/editor.html</loc>
+    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送.html</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/editor.html</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
