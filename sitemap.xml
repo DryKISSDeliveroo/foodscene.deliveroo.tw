@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/餐廳/tp-valentinesday-set.html</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/tp-hotdrink-goodeats-zh.html</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +206,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/en/contact/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/valentine-sday.html</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -469,25 +481,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
-    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/editor.html</loc>
+    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送.html</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/editor.html</loc>
     <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
