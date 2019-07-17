@@ -37,12 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/餐廳/tp-burgerking.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/top5-satiate-meal.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -733,12 +727,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/餐廳/page/3.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/促銷/page/2.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -746,12 +734,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送/page/2.html</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送/page/3.html</loc>
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
