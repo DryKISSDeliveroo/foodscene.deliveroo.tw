@@ -235,6 +235,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-afternoonteaselection.html</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-porkchoprice-top5-feature.html</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,6 +319,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/tag/下午茶.html</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/甜點.html</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/dessert.html</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/tag/排骨飯.html</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -337,12 +361,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/dessert.html</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/tag/活動.html</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -362,18 +380,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/折扣.html</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/甜點.html</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/下午茶.html</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
