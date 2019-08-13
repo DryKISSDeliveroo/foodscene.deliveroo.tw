@@ -37,6 +37,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/餐廳/nybagels-greengiant-exclusive.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/top5-satiate-meal.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,6 +320,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/貪吃鬼派對.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/n-y-bagels.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/綠巨人.html</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/獨家套餐.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -823,13 +847,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/美食趨勢.html</loc>
+    <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
+    <loc>https://foodscene.deliveroo.tw/美食趨勢.html</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
