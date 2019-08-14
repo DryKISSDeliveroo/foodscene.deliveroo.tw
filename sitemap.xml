@@ -247,6 +247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-milktea-selection.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-afternoonteaselection.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,6 +307,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/tag/restaurant.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/selection.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/feature.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/餐廳.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/精選.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/巷弄美食.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/鮮奶茶.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/tag/promotion.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,36 +386,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/獨家套餐.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/restaurant.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/selection.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/feature.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/餐廳.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/精選.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -841,6 +859,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/美食趨勢.html</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -848,12 +872,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/美食趨勢.html</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
