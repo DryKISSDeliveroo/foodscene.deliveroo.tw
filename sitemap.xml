@@ -301,12 +301,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-donburi-selection.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/美食趨勢/tp-milktea-selection.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -685,36 +679,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/restaurant.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/selection.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/feature.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/精選.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/丼飯.html</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/tag/可口可樂纖維.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -739,7 +703,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/tag/restaurant.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/selection.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/feature.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/精選.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/tag/豬排.html</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/丼飯.html</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
