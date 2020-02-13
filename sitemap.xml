@@ -79,6 +79,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/餐廳/2020deliveroovalentinesday.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/tp-burgerking.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -373,6 +379,60 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/tag/情人節.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/戶戶愛你.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/追劇.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/美食.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/情人節活動.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/愛奇藝vip.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/戶戶送.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/美食外送.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/外送平台.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/tag/circles.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -409,12 +469,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/戶戶送.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/tag/免運.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -427,12 +481,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/tag/外送平台.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/tag/免運費.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -440,12 +488,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/餐廳.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/美食.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -530,12 +572,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/韓式料理.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/美食外送.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1237,6 +1273,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/archive/2020.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/archive/2019.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1249,13 +1291,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
+    <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/餐廳.html</loc>
+    <loc>https://foodscene.deliveroo.tw/促銷.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1267,13 +1309,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/deliveroo.html</loc>
+    <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/deliveroo-戶戶送.html</loc>
+    <loc>https://foodscene.deliveroo.tw/deliveroo.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1315,18 +1357,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.tw/促銷/page/2.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/促銷/page/3.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/page/2.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1334,6 +1364,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/餐廳/page/3.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/促銷/page/2.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/促銷/page/3.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
