@@ -325,6 +325,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.tw/美食趨勢/deliveroo-taiwan-anniversary.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.tw/admin/</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -632,6 +638,42 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/pizza-perse-傳統式義大利披薩專賣店.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/週年慶.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/登台一週年.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/deliveroo.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/taiwan.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/anniversary.html</loc>
+    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.tw/tag/campaign.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1052,12 +1094,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.tw/tag/乘車金.html</loc>
-    <lastmod>2020-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.tw/tag/deliveroo.html</loc>
     <lastmod>2020-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
